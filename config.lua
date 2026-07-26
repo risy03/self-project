@@ -1410,6 +1410,7 @@ function showMainMenu()
         '\t\tGame                  : Jurassic World The Game\n' ..
         '\t\tVersion               : 1.90.39 and above\n' ..
         '\t\tStatus                 : Ultimate Script\n' ..
+        '\t\tDate Expired      : 03 August 2026\n' ..
         '\t\tLink Telegram   : t.me/@zydxie\n\n' ..
         '╚════════════  ≪ °❈° ≫  ════════════╝')
         if choice == nil then standby() else return choice end
